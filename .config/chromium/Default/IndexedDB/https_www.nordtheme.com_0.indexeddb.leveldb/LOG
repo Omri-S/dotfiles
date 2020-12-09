@@ -1,0 +1,15 @@
+2020/11/26-16:49:05.442 68f1 Reusing MANIFEST /home/omri/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/26-16:49:05.442 68f1 Recovering log #4
+2020/11/26-16:49:05.442 68f1 Reusing old log /home/omri/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/000004.log 
+2020/11/26-16:50:04.700 6981 Level-0 table #8: started
+2020/11/26-16:50:04.704 6981 Level-0 table #8: 3715 bytes OK
+2020/11/26-16:50:04.708 6981 Delete type=0 #4
+2020/11/26-16:50:04.708 6981 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/26-16:50:04.708 6981 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x10\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00p\x00o\x00r\x00t\x00s' @ 133 : 1
+2020/11/26-16:50:04.708 6981 Compacting 1@1 + 1@2 files
+2020/11/26-16:50:04.711 6981 Generated table #9@1: 33 keys, 1267 bytes
+2020/11/26-16:50:04.711 6981 Compacted 1@1 + 1@2 files => 1267 bytes
+2020/11/26-16:50:04.714 6981 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/26-16:50:04.714 6981 Delete type=2 #8
+2020/11/26-16:50:04.714 6981 Delete type=2 #5
+2020/11/26-16:50:04.714 6981 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x10\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00p\x00o\x00r\x00t\x00s' @ 133 : 1 .. (end); will stop at (end)

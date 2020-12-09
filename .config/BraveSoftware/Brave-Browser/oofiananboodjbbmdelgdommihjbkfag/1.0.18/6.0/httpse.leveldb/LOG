@@ -1,0 +1,7 @@
+2020/12/09-13:20:56.230 2ba Recovering log #3
+2020/12/09-13:20:56.327 2ba Level-0 table #5: started
+2020/12/09-13:20:56.378 2ba Level-0 table #5: 2853472 bytes OK
+2020/12/09-13:20:56.381 2ba Recovering log #13
+2020/12/09-13:20:56.390 2ba Delete type=0 #13
+2020/12/09-13:20:56.390 2ba Delete type=3 #2
+2020/12/09-13:20:56.390 2ba Delete type=0 #3

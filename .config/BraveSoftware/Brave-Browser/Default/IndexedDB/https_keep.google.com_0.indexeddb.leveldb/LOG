@@ -1,0 +1,5 @@
+2020/12/08-17:29:12.509 913e Reusing MANIFEST /home/omri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_keep.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/08-18:16:40.998 c30d Level-0 table #5: started
+2020/12/08-18:16:41.003 c30d Level-0 table #5: 2171 bytes OK
+2020/12/08-18:16:41.006 c30d Delete type=0 #3
+2020/12/08-18:16:41.006 c30d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

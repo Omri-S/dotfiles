@@ -1,0 +1,8 @@
+2020/12/02-10:58:35.823 400a Reusing MANIFEST /home/omri/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/02-10:58:35.823 400a Recovering log #130
+2020/12/02-10:58:35.823 400a Reusing old log /home/omri/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000130.log 
+2020/12/02-10:58:37.827 400a Level-0 table #134: started
+2020/12/02-10:58:37.828 400a Level-0 table #134: 0 bytes OK
+2020/12/02-10:58:37.833 400a Delete type=0 #130
+2020/12/02-10:58:37.834 400a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/02-10:58:37.834 400a Manual compaction at level-1 from (begin) .. (end); will stop at (end)

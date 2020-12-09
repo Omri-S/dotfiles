@@ -1,0 +1,15 @@
+2020/11/29-18:35:50.676 886e Reusing MANIFEST /home/omri/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/29-18:35:50.676 886e Recovering log #4
+2020/11/29-18:35:50.676 886e Reusing old log /home/omri/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2020/11/29-20:12:49.511 c2a0 Level-0 table #8: started
+2020/11/29-20:12:49.522 c2a0 Level-0 table #8: 386841 bytes OK
+2020/11/29-20:12:49.526 c2a0 Delete type=0 #4
+2020/11/29-20:12:49.526 c2a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/29-20:12:49.526 c2a0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 926 : 1
+2020/11/29-20:12:49.526 c2a0 Compacting 1@1 + 1@2 files
+2020/11/29-20:12:49.530 c2a0 Generated table #9@1: 73 keys, 52446 bytes
+2020/11/29-20:12:49.530 c2a0 Compacted 1@1 + 1@2 files => 52446 bytes
+2020/11/29-20:12:49.534 c2a0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/29-20:12:49.534 c2a0 Delete type=2 #8
+2020/11/29-20:12:49.534 c2a0 Delete type=2 #5
+2020/11/29-20:12:49.534 c2a0 Manual compaction at level-1 from '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 926 : 1 .. (end); will stop at (end)

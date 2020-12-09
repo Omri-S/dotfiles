@@ -1,0 +1,12 @@
+2020/12/08-14:21:45.470 1fda Reusing MANIFEST /home/omri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/08-14:21:45.471 1fda Recovering log #11
+2020/12/08-14:21:45.471 1fda Reusing old log /home/omri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000011.log 
+2020/12/08-18:02:17.553 bdfd Level-0 table #16: started
+2020/12/08-18:02:17.570 bdfd Level-0 table #16: 1220736 bytes OK
+2020/12/08-18:02:17.574 bdfd Delete type=0 #11
+2020/12/08-18:02:18.123 be02 Compacting 1@1 + 1@2 files
+2020/12/08-18:02:18.162 be02 Generated table #17@1: 43108 keys, 1967846 bytes
+2020/12/08-18:02:18.162 be02 Compacted 1@1 + 1@2 files => 1967846 bytes
+2020/12/08-18:02:18.166 be02 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/08-18:02:18.166 be02 Delete type=2 #13
+2020/12/08-18:02:18.166 be02 Delete type=2 #16

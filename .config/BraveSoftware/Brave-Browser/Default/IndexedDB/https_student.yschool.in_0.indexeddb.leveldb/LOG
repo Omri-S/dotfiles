@@ -1,0 +1,5 @@
+2020/12/02-11:20:58.596 4d44 Reusing MANIFEST /home/omri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_student.yschool.in_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/02-11:21:15.609 4d44 Level-0 table #5: started
+2020/12/02-11:21:15.618 4d44 Level-0 table #5: 837 bytes OK
+2020/12/02-11:21:15.624 4d44 Delete type=0 #3
+2020/12/02-11:21:15.624 4d44 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

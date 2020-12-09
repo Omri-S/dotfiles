@@ -1,0 +1,5 @@
+2020/11/18-08:48:17.145 1268 Reusing MANIFEST /home/omri/.config/chromium/Default/IndexedDB/https_www.geeksforgeeks.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/18-08:48:20.970 137b Level-0 table #5: started
+2020/11/18-08:48:20.974 137b Level-0 table #5: 323 bytes OK
+2020/11/18-08:48:20.979 137b Delete type=0 #3
+2020/11/18-08:48:20.979 137b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

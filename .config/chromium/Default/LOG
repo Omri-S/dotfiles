@@ -1,0 +1,14 @@
+2020/12/01-19:13:31.519 33df Recovering log #44
+2020/12/01-19:13:31.519 33df Level-0 table #46: started
+2020/12/01-19:13:31.522 33df Level-0 table #46: 4073 bytes OK
+2020/12/01-19:13:31.530 33df Delete type=0 #44
+2020/12/01-19:13:31.530 33df Delete type=3 #42
+2020/12/01-19:13:31.530 33df Compacting 4@0 + 1@1 files
+2020/12/01-19:13:31.534 33df Generated table #48@0: 5 keys, 2556 bytes
+2020/12/01-19:13:31.534 33df Compacted 4@0 + 1@1 files => 2556 bytes
+2020/12/01-19:13:31.542 33df compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/12/01-19:13:31.542 33df Delete type=2 #35
+2020/12/01-19:13:31.542 33df Delete type=2 #37
+2020/12/01-19:13:31.542 33df Delete type=2 #43
+2020/12/01-19:13:31.542 33df Delete type=2 #46
+2020/12/01-19:13:31.542 33df Delete type=2 #40

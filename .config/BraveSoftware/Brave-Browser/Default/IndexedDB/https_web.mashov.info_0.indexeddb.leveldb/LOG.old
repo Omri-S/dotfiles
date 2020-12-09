@@ -1,0 +1,15 @@
+2020/12/08-17:26:10.846 a460 Reusing MANIFEST /home/omri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.mashov.info_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/08-17:26:10.846 a460 Recovering log #7
+2020/12/08-17:26:10.846 a460 Reusing old log /home/omri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.mashov.info_0.indexeddb.leveldb/000007.log 
+2020/12/08-17:26:12.857 a0b1 Level-0 table #12: started
+2020/12/08-17:26:12.860 a0b1 Level-0 table #12: 190 bytes OK
+2020/12/08-17:26:12.864 a0b1 Delete type=0 #7
+2020/12/08-17:26:12.864 a0b1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/08-17:26:12.865 a0b1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 5 : 1
+2020/12/08-17:26:12.865 a0b1 Compacting 1@1 + 1@2 files
+2020/12/08-17:26:12.868 a0b1 Generated table #13@1: 4 keys, 236 bytes
+2020/12/08-17:26:12.868 a0b1 Compacted 1@1 + 1@2 files => 236 bytes
+2020/12/08-17:26:12.871 a0b1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/08-17:26:12.872 a0b1 Delete type=2 #12
+2020/12/08-17:26:12.872 a0b1 Delete type=2 #9
+2020/12/08-17:26:12.872 a0b1 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 5 : 1 .. (end); will stop at (end)

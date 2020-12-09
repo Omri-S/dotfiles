@@ -1,0 +1,5 @@
+2020/11/23-14:53:30.055 17b3b Reusing MANIFEST /home/omri/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/23-15:11:03.009 18b89 Level-0 table #5: started
+2020/11/23-15:11:03.012 18b89 Level-0 table #5: 2072 bytes OK
+2020/11/23-15:11:03.020 18b89 Delete type=0 #3
+2020/11/23-15:11:03.020 18b89 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

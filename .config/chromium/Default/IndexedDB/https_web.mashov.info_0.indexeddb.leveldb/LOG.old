@@ -1,0 +1,8 @@
+2020/12/01-19:13:20.933 3765 Reusing MANIFEST /home/omri/.config/chromium/Default/IndexedDB/https_web.mashov.info_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/01-19:13:20.933 3765 Recovering log #24
+2020/12/01-19:13:20.933 3765 Reusing old log /home/omri/.config/chromium/Default/IndexedDB/https_web.mashov.info_0.indexeddb.leveldb/000024.log 
+2020/12/01-19:13:22.938 3765 Level-0 table #28: started
+2020/12/01-19:13:22.938 3765 Level-0 table #28: 0 bytes OK
+2020/12/01-19:13:22.946 3765 Delete type=0 #24
+2020/12/01-19:13:22.946 3765 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/01-19:13:22.946 3765 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

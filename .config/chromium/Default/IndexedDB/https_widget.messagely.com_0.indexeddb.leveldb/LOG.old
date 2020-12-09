@@ -1,0 +1,5 @@
+2020/11/27-12:03:36.189 aba Reusing MANIFEST /home/omri/.config/chromium/Default/IndexedDB/https_widget.messagely.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/27-12:03:43.318 aba Level-0 table #5: started
+2020/11/27-12:03:43.323 aba Level-0 table #5: 1911 bytes OK
+2020/11/27-12:03:43.329 aba Delete type=0 #3
+2020/11/27-12:03:43.329 aba Manual compaction at level-0 from (begin) .. (end); will stop at (end)

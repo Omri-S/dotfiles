@@ -1,0 +1,8 @@
+2020/12/08-14:21:45.047 1e9c Reusing MANIFEST /home/omri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/08-14:21:45.047 1e9c Recovering log #22
+2020/12/08-14:21:45.047 1e9c Reusing old log /home/omri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000022.log 
+2020/12/08-14:21:47.052 1ee5 Level-0 table #26: started
+2020/12/08-14:21:47.052 1ee5 Level-0 table #26: 0 bytes OK
+2020/12/08-14:21:47.056 1ee5 Delete type=0 #22
+2020/12/08-14:21:47.056 1ee5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/08-14:21:47.056 1ee5 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

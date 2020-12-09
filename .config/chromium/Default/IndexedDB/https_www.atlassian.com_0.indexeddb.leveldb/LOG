@@ -1,0 +1,5 @@
+2020/11/18-08:19:58.295 b8cc Reusing MANIFEST /home/omri/.config/chromium/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/18-08:21:13.427 b8ca Level-0 table #5: started
+2020/11/18-08:21:13.433 b8ca Level-0 table #5: 1510 bytes OK
+2020/11/18-08:21:13.437 b8ca Delete type=0 #3
+2020/11/18-08:21:13.437 b8ca Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/11/29-18:24:39.684 79d5 Reusing MANIFEST /home/omri/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/29-18:24:39.684 79d5 Recovering log #11
+2020/11/29-18:24:39.684 79d5 Reusing old log /home/omri/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000011.log 
+2020/11/29-18:25:08.611 8179 Level-0 table #15: started
+2020/11/29-18:25:08.615 8179 Level-0 table #15: 242597 bytes OK
+2020/11/29-18:25:08.619 8179 Delete type=0 #11
+2020/11/29-18:25:08.619 8179 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/29-18:25:08.619 8179 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00u\x00s\x00e\x00r\x00s\x00.\x00v\x00i\x00e\x00w\x00e\x00r\x00I\x00d' @ 747 : 1
+2020/11/29-18:25:08.619 8179 Compacting 1@1 + 1@2 files
+2020/11/29-18:25:08.623 8179 Generated table #16@1: 38 keys, 31137 bytes
+2020/11/29-18:25:08.623 8179 Compacted 1@1 + 1@2 files => 31137 bytes
+2020/11/29-18:25:08.626 8179 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/29-18:25:08.626 8179 Delete type=2 #15
+2020/11/29-18:25:08.626 8179 Delete type=2 #9
+2020/11/29-18:25:08.626 8179 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00u\x00s\x00e\x00r\x00s\x00.\x00v\x00i\x00e\x00w\x00e\x00r\x00I\x00d' @ 747 : 1 .. (end); will stop at (end)

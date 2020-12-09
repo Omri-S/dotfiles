@@ -1,0 +1,21 @@
+2020/12/08-14:21:44.823 1ecb Reusing MANIFEST /home/omri/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2020/12/08-14:21:44.824 1ecb Recovering log #12
+2020/12/08-14:21:44.825 1ecb Reusing old log /home/omri/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000012.log 
+2020/12/08-17:26:19.326 a0b1 Level-0 table #16: started
+2020/12/08-17:26:19.332 a0b1 Level-0 table #16: 22723 bytes OK
+2020/12/08-17:26:19.336 a0b1 Delete type=0 #12
+2020/12/08-18:53:16.036 d95e Level-0 table #18: started
+2020/12/08-18:53:16.049 d95e Level-0 table #18: 21173 bytes OK
+2020/12/08-18:53:16.052 d95e Delete type=0 #15
+2020/12/08-18:53:16.052 d3cf Compacting 4@0 + 1@1 files
+2020/12/08-18:53:16.056 d3cf Generated table #19@0: 313 keys, 27434 bytes
+2020/12/08-18:53:16.056 d3cf Compacted 4@0 + 1@1 files => 27434 bytes
+2020/12/08-18:53:16.060 d3cf compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/08-18:53:16.060 d3cf Delete type=2 #10
+2020/12/08-18:53:16.060 d3cf Delete type=2 #13
+2020/12/08-18:53:16.060 d3cf Delete type=2 #16
+2020/12/08-18:53:16.060 d3cf Delete type=2 #7
+2020/12/08-18:53:16.060 d3cf Delete type=2 #18
+2020/12/08-22:17:29.605 13efa Level-0 table #21: started
+2020/12/08-22:17:29.610 13efa Level-0 table #21: 15670 bytes OK
+2020/12/08-22:17:29.613 13efa Delete type=0 #17

@@ -1,0 +1,15 @@
+2020/11/27-12:04:22.909 ae1 Reusing MANIFEST /home/omri/.config/chromium/Default/IndexedDB/https_www.messagely.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/27-12:04:22.909 ae1 Recovering log #4
+2020/11/27-12:04:22.909 ae1 Reusing old log /home/omri/.config/chromium/Default/IndexedDB/https_www.messagely.com_0.indexeddb.leveldb/000004.log 
+2020/11/27-13:37:39.981 3938 Level-0 table #8: started
+2020/11/27-13:37:39.985 3938 Level-0 table #8: 924 bytes OK
+2020/11/27-13:37:39.988 3938 Delete type=0 #4
+2020/11/27-13:37:39.988 3938 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/27-13:37:39.989 3938 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x00t\x00o\x00k\x00e\x00n' @ 92 : 1
+2020/11/27-13:37:39.989 3938 Compacting 1@1 + 1@2 files
+2020/11/27-13:37:39.991 3938 Generated table #9@1: 28 keys, 691 bytes
+2020/11/27-13:37:39.991 3938 Compacted 1@1 + 1@2 files => 691 bytes
+2020/11/27-13:37:39.995 3938 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/27-13:37:39.995 3938 Delete type=2 #8
+2020/11/27-13:37:39.995 3938 Delete type=2 #5
+2020/11/27-13:37:39.995 3938 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x00t\x00o\x00k\x00e\x00n' @ 92 : 1 .. (end); will stop at (end)

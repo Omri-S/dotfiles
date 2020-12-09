@@ -1,0 +1,16 @@
+2020/11/30-13:03:57.529 2c2 Reusing MANIFEST /home/omri/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/30-13:03:57.529 2c2 Recovering log #51
+2020/11/30-13:03:57.551 2c2 Reusing old log /home/omri/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000051.log 
+2020/11/30-14:14:40.957 51a6 Level-0 table #58: started
+2020/11/30-14:14:40.974 51a6 Level-0 table #58: 1230086 bytes OK
+2020/11/30-14:14:40.978 51a6 Delete type=0 #51
+2020/11/30-14:16:12.727 5490 Compacting 1@1 + 3@2 files
+2020/11/30-14:16:12.768 5490 Generated table #59@1: 46635 keys, 2186751 bytes
+2020/11/30-14:16:12.809 5490 Generated table #60@1: 46457 keys, 2291760 bytes
+2020/11/30-14:16:12.841 5490 Generated table #61@1: 38127 keys, 1654414 bytes
+2020/11/30-14:16:12.841 5490 Compacted 1@1 + 3@2 files => 6132925 bytes
+2020/11/30-14:16:12.844 5490 compacted to: files[ 0 0 3 0 0 0 0 ]
+2020/11/30-14:16:12.844 5490 Delete type=2 #58
+2020/11/30-14:16:12.844 5490 Delete type=2 #53
+2020/11/30-14:16:12.844 5490 Delete type=2 #54
+2020/11/30-14:16:12.844 5490 Delete type=2 #55

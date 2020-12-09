@@ -1,0 +1,5 @@
+2020/12/01-19:06:30.619 15e4 Reusing MANIFEST /home/omri/.config/chromium/Default/IndexedDB/https_www.bookdepository.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/01-19:06:34.884 22b5 Level-0 table #5: started
+2020/12/01-19:06:34.887 22b5 Level-0 table #5: 1355 bytes OK
+2020/12/01-19:06:34.893 22b5 Delete type=0 #3
+2020/12/01-19:06:34.894 22b5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

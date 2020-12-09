@@ -1,0 +1,8 @@
+2020/12/08-18:03:52.211 be7d Reusing MANIFEST /home/omri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/08-18:03:52.211 be7d Recovering log #7
+2020/12/08-18:03:52.211 be7d Reusing old log /home/omri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000007.log 
+2020/12/08-18:03:56.577 bdff Level-0 table #12: started
+2020/12/08-18:03:56.577 bdff Level-0 table #12: 0 bytes OK
+2020/12/08-18:03:56.591 bdff Delete type=0 #7
+2020/12/08-18:03:56.591 bdff Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/08-18:03:56.591 bdff Manual compaction at level-1 from (begin) .. (end); will stop at (end)
